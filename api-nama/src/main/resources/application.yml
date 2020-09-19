@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: postgres://pmcdelayzceeou:0f0b08535affe5fe5075ebb0816da57ba17524b3359ec0f74e73b50bf03c882f@ec2-54-146-4-66.compute-1.amazonaws.com:5432/d11rnt7lfo0cie
+    username: pmcdelayzceeou
+    password: 0f0b08535affe5fe5075ebb0816da57ba17524b3359ec0f74e73b50bf03c882f
